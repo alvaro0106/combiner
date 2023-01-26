@@ -3,3 +3,4 @@ fn main() {
 }
 
 // Coment
+a=s;
